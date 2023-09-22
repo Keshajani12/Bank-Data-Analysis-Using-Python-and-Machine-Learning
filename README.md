@@ -23,7 +23,7 @@ The dataset, named 'bank-full.csv,' contains valuable information related to cus
  ● For predictive modeling, the script employs linear regression, utilizing customer age as a predictor for account balances. 
 
 # Installation
-1. Clone this repository: git clone https://github.com/
+1. Clone this repository: git clone https://github.com/Keshajani12/Bank-Data-Analysis-Using-Python-and-Machine-Learning.git
 2. Navigate to the project directory: cd BankData
 3. Install the required Python packages using pip: pip install pandas numpy matplotlib seaborn scikit-learn
 
