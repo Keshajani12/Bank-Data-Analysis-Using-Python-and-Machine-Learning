@@ -58,3 +58,12 @@ A linear regression model is trained using the training data to predict 'balance
  This code provides a comprehensive analysis of the banking dataset, including data filtering, visualization, and machine learning. It can serve as a valuable reference for data analysis and predictive modeling tasks in the banking domain.
 
 #   Screenshots
+![1](https://github.com/Keshajani12/Bank-Data-Analysis-Using-Python-and-Machine-Learning/assets/143489586/8ce90d4a-81ec-466a-8245-fd9cb4c1520e)
+
+![2](https://github.com/Keshajani12/Bank-Data-Analysis-Using-Python-and-Machine-Learning/assets/143489586/4b27d0a6-e01b-4ed1-a119-37812b256cc8)
+
+![3](https://github.com/Keshajani12/Bank-Data-Analysis-Using-Python-and-Machine-Learning/assets/143489586/cfb930bc-8067-4d07-a2f8-1f729f01aa2b)
+
+![4](https://github.com/Keshajani12/Bank-Data-Analysis-Using-Python-and-Machine-Learning/assets/143489586/edcf4453-dc37-4a40-b146-aa3a934513d7)
+
+![5](https://github.com/Keshajani12/Bank-Data-Analysis-Using-Python-and-Machine-Learning/assets/143489586/b92f1130-05b8-4046-8647-027b5785a880)
